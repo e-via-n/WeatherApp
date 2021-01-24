@@ -12,6 +12,7 @@ A simple clone of the native Apple Weather App that gets weather data using the 
 
 ## Features
 * Using the MVC architecture
+* Core Location
 * Alamofire
 * Swifty JSON
 * Cocoa Pods
